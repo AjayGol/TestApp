@@ -303,7 +303,7 @@ const styles = StyleSheet.create({
     listItem: {
         paddingHorizontal: 15,
         marginTop: 5,
-        backgroundColor: '#2B2B2B',
+        backgroundColor: '#141414',
         borderRadius: 8,
         paddingVertical: 20,
     },
